@@ -1,0 +1,1 @@
+Trap;10;16;0;16;1;17;2;18;3;19;4;6;Level1Trap.png;Level1TrapDown.png;0.5,Object;12;19;1;1000;0;Stone1.png,Object;13;18;1;1000;0;Stone1.png,Object;14;17;1;1000;0;Stone1.png,Object;15;16;1;1000;0;Stone1.png,Object;16;15;1;1000;0;Stone1.png,Object;17;14;1;1000;0;Stone1.png,Object;18;13;1;1000;0;Stone1.png,Object;19;12;1;1000;0;Stone1.png,Object;8;8;1;100;1;Man.png

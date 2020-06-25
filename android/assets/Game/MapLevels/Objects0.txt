@@ -1,0 +1,1 @@
+Trap;6;2;2;3;2;4;2;4;Trap1.png;Trap1Down.png;0.5,Death;6;7;6;8;6;9;6;4;16;0.5;Trap1.png,Gun;GunA.png;0.5;1;8;8;2;10;1;4;16;16,BotObj;81;54;Character/Animation/ForwardAttackAtlas.png;Character/Animation/BackAttackAtlas.png;Character/Animation/RAttackAtlas.png;Character/Animation/LAttackAtlas.png;Character/Animation/AnimR1.png;Character/Animation/AnimLR1.png;4;2;10;10;20;5;1;1,
